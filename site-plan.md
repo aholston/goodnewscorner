@@ -1,11 +1,13 @@
-# Good News Corner — Website Blueprint
+# The The Good News Corner — Website Blueprint
 
 ## Business Overview
-- **Name:** Good News Corner
-- **Type:** Charcuterie board business
+- **Name:** The The Good News Corner
+- **Type:** Faith-based charcuterie board business
 - **Service Area:** DFW (Dallas/Fort Worth), Texas
 - **Offerings:** Set menu boards/boxes + custom orders
 - **Fulfillment:** Delivery, pickup, and catering/events
+- **Brand Identity:** Faith-inspired — "Good News" is a reference to the Gospel. The logo features a cross. The brand tone is warm, welcoming, and uplifting.
+- **Logo:** Elegant serif text with a hand-drawn cross, on a warm beige/tan background. Colors: beige (#D4C5B2), dark charcoal text, burnt sienna cross accent.
 
 ---
 
@@ -17,12 +19,12 @@
 **Sections:**
 - **Hero Banner**
   - Large, high-quality photo (recommend: Manna_Board.jpg or Harvest_Board.jpg — most visually striking)
-  - Headline: "Handcrafted Charcuterie for Every Occasion"
-  - Subheadline: "Serving the Dallas/Fort Worth area"
+  - Headline: "Handcrafted Charcuterie, Made with Love and Purpose"
+  - Subheadline: "Sharing the Good News one board at a time — Serving the DFW area"
   - CTA button: "View Our Menu" / "Place an Order"
 
 - **About Snippet**
-  - 2-3 sentences about Good News Corner (the story, the mission)
+  - 2-3 sentences about The Good News Corner (the story, the mission)
   - Link to full About page
 
 - **Featured Boards**
@@ -47,19 +49,21 @@
 ### 2. MENU PAGE
 **Purpose:** Show all available boards/boxes with descriptions and pricing.
 
-**Products (based on photos):**
+**Important Note:** *"Packaging styles may vary depending on local availability, but the 'yum' factor never changes. You will always receive the full portions and quality pictured."*
 
-| Product | Type | Suggested Description |
-|---------|------|----------------------|
-| **Grazing Box** | Box | A generous box packed with artisan meats, cheeses, fresh fruits, crackers, honey, nuts, and sweet treats. Perfect for gifting or sharing. |
-| **Date & Fig Box** | Small Box | A petite box with curated meats, heart-shaped cheeses, grapes, honey, crackers, and a touch of chocolate. Ideal for date night or a sweet surprise. |
-| **Olive Board** | Board | A classic wooden board featuring salami roses, premium cheeses, olives, pepperoncini, mixed nuts, honey, and seasonal fruits. |
-| **Harvest Board** | Round Board | A beautifully arranged round board with an abundance of cured meats, artisan cheeses, crackers, honey, pickles, and fresh grapes. Great for gatherings. |
-| **Manna Board** | Large Board | The showstopper. A lavish spread of cured meats, multiple cheeses, salami roses, fresh fruits, nuts, crackers, chocolates, and house-made accompaniments. Perfect for events and celebrations. |
+**Pricing Note:** *Prices listed are for the charcuterie only — boards/serving platters pictured are not included.*
+
+**Products:**
+
+| Product | Serves | Price | Description |
+|---------|--------|-------|-------------|
+| **The Harvest Box** | Up to 2 | $16.24 | A perfectly portioned box of artisan meats, cheeses, fresh fruits, crackers, honey, and sweet treats. Great for a personal treat or sharing for two. |
+| **The Olive Box** | Up to 4 | $32.48 | A generous spread of curated meats, premium cheeses, olives, pepperoncini, mixed nuts, honey, crackers, and seasonal fruits. Board not included. |
+| **The Grazing Box** | Up to 6 | $70.36 | A bountiful box packed with an abundance of cured meats, artisan cheeses, fresh fruits, crackers, honey, nuts, and sweet treats. Perfect for small gatherings. Board not included. |
+| **The Manna Box** | Up to 10 | $113.66 | The showstopper. A lavish spread of cured meats, multiple cheeses, salami roses, fresh fruits, nuts, crackers, chocolates, and house-made accompaniments. Perfect for events and celebrations. Board not included. |
+| **The Grazing Table** | Varies | Contact for quote | A full grazing table experience for larger events. Perfect for weddings, corporate events, and celebrations. Quotes provided based on guest count and event details. |
 
 **Section also includes:**
-- Size/serving info (e.g., "Serves 2-4", "Serves 8-12")
-- Starting prices for each
 - Note: "Custom boards available — contact us for special requests"
 - CTA: "Order Now" button per item or a general inquiry form
 
@@ -100,13 +104,16 @@
 **Purpose:** Build trust and personal connection.
 
 **Suggested Content Outline:**
-- The story behind Good News Corner (why she started, what "Good News" means to her)
-- Her passion for food and bringing people together
+- The story behind The Good News Corner — rooted in faith, "Good News" refers to the Gospel
+- How her love for bringing people together around a table connects to her mission of sharing joy and community
+- Her passion for food as a way to serve others
 - Photo of the owner (if comfortable)
-- What makes Good News Corner different:
-  - Handcrafted with care
+- A favorite scripture or short blessing that inspires the business (optional but on-brand)
+- What makes The Good News Corner different:
+  - Handcrafted with care and prayer
   - Locally sourced when possible
-  - Branded personal touches (the stamped chocolates, etc.)
+  - Branded personal touches (the cross logo stamped on chocolates, custom packaging)
+  - Every board is made to bring people together
 - Service area: DFW, Texas
 
 ---
@@ -146,10 +153,11 @@
 - Choose something with large image areas, clean fonts, and warm tones
 - Recommended Wix templates to search for: "Food", "Catering", or "Bakery" templates
 
-### Color Palette (suggestions based on the brand aesthetic)
-- **Primary:** Warm gold/honey (#C8973E) — matches the honey jars and warm tones in photos
+### Color Palette (based on logo and brand aesthetic)
+- **Primary:** Warm beige/tan (#D4C5B2) — matches the logo background and board backdrops
+- **Accent:** Burnt sienna (#A0522D) — matches the cross in the logo
 - **Secondary:** Deep burgundy/wine (#6B2737) — complements the meats and grapes
-- **Neutral:** Cream/off-white (#FAF5EF) — matches the marble backdrop in photos
+- **Neutral:** Cream/off-white (#FAF5EF) — light background for content areas
 - **Text:** Dark charcoal (#2C2C2C)
 
 ### Fonts
@@ -177,15 +185,15 @@
 - "Charcuterie catering DFW"
 - "Grazing boards Fort Worth"
 - "Charcuterie delivery Dallas"
-- "Good News Corner charcuterie"
+- "The Good News Corner charcuterie"
 
 ### Page Titles (for SEO)
-- Home: "Good News Corner | Handcrafted Charcuterie Boards in DFW, Texas"
-- Menu: "Our Menu | Charcuterie Boards & Grazing Boxes | Good News Corner"
-- Custom Orders: "Custom Charcuterie Orders | Good News Corner DFW"
-- Catering: "Charcuterie Catering for Events | Good News Corner Dallas Fort Worth"
-- About: "About Good News Corner | DFW Charcuterie"
-- Contact: "Contact Good News Corner | Order Charcuterie in DFW"
+- Home: "The Good News Corner | Handcrafted Charcuterie Boards in DFW, Texas"
+- Menu: "Our Menu | Charcuterie Boards & Grazing Boxes | The Good News Corner"
+- Custom Orders: "Custom Charcuterie Orders | The Good News Corner DFW"
+- Catering: "Charcuterie Catering for Events | The Good News Corner Dallas Fort Worth"
+- About: "About The Good News Corner | DFW Charcuterie"
+- Contact: "Contact The Good News Corner | Order Charcuterie in DFW"
 
 ---
 
@@ -193,6 +201,7 @@
 
 | Image File | Recommended Use |
 |-----------|----------------|
+| logo.jpg | Site header, favicon (cropped), social media preview image |
 | Manna_Board.jpg | Homepage hero (alternate), Menu page, Catering page — this is the showpiece |
 | Harvest_Board.jpg | Homepage hero (primary), Menu page — classic round board is very appealing |
 | Olive_Board.jpg | Menu page, About page — shows the wooden board style nicely |
