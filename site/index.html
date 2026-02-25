@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
 
@@ -38,7 +39,7 @@
     <div class="hero-overlay"></div>
     <div class="hero-content">
       <h1>The Good News Corner</h1>
-      <p class="hero-subtitle">Creating Intentional Gatherings with Intentional Ingredients</p>
+      <p class="hero-subtitle">Intentional Gatherings with Intentional Ingredients</p>
       <a href="#menu" class="btn btn-primary">View Our Menu</a>
     </div>
   </section>
@@ -66,12 +67,12 @@
 
         <div class="product-card">
           <div class="product-image">
-            <img src="images/Harvest_Board.jpg" alt="The Harvest Box" loading="lazy">
+            <img src="images/Harvest_Lunch_Box.jpg" alt="The Harvest Box" loading="lazy">
           </div>
           <div class="product-info">
             <h3>The Harvest Box</h3>
             <p class="product-serves">Serves up to 2</p>
-            <p class="product-description">A perfectly portioned box of artisan meats, cheeses, fresh fruits, crackers, honey, and sweet treats. Great for a personal treat or sharing for two.</p>
+            <p class="product-description">A perfectly portioned box of artisan meats, cheeses, fresh fruits, crackers, honey, and sweet treats. Great for a personal treat or sharing for two. Comes with 2 meats and 2 cheeses — one firm, one soft.</p>
             <p class="product-price">$16.24</p>
           </div>
         </div>
@@ -81,9 +82,9 @@
             <img src="images/Olive_Board.jpg" alt="The Olive Box" loading="lazy">
           </div>
           <div class="product-info">
-            <h3>The Olive Box</h3>
+            <h3>The Olive Board</h3>
             <p class="product-serves">Serves up to 4</p>
-            <p class="product-description">A generous spread of curated meats, premium cheeses, olives, pepperoncini, mixed nuts, honey, crackers, and seasonal fruits.</p>
+            <p class="product-description">A generous spread of curated meats, premium cheeses, olives, pepperoncini, mixed nuts, honey, crackers, and seasonal fruits. Comes with 3 different cured meats and 3 cheeses, a mix of firm and soft. Board not included.</p>
             <p class="product-price">$32.48</p>
           </div>
         </div>
@@ -95,7 +96,7 @@
           <div class="product-info">
             <h3>The Grazing Box</h3>
             <p class="product-serves">Serves up to 6</p>
-            <p class="product-description">A bountiful box packed with an abundance of cured meats, artisan cheeses, fresh fruits, crackers, honey, nuts, and sweet treats. Perfect for small gatherings.</p>
+            <p class="product-description">A bountiful box packed with an abundance of cured meats, artisan cheeses, fresh fruits, crackers, honey, nuts, and sweet treats. Comes with 4 different cured meats and 4 cheeses, a mix of firm and soft. Perfect for small gatherings.</p>
             <p class="product-price">$70.36</p>
           </div>
         </div>
@@ -107,8 +108,8 @@
           <div class="product-info">
             <h3>The Manna Board</h3>
             <p class="product-serves">Serves up to 10</p>
-            <p class="product-description">The showstopper. A lavish spread of cured meats, multiple cheeses, salami roses, fresh fruits, nuts, crackers, chocolates, and house-made accompaniments. Perfect for events and celebrations.</p>
-            <p class="product-price">$113.66</p>
+            <p class="product-description">The showstopper. A lavish spread of cured meats, multiple cheeses, salami roses, fresh fruits, nuts, crackers, chocolates, and house-made accompaniments. Comes with 5 different cured meats and 5 cheeses, a mix of firm, semi-firm, and soft. Perfect for events and celebrations. Board included.</p>
+            <p class="product-price">$188.36</p>
           </div>
         </div>
 
@@ -132,9 +133,11 @@
       </div>
       <div class="about-content">
         <h2 class="section-title">Our Story</h2>
-        <p class="scripture">"Every good and perfect gift is from above." &mdash; James 1:17</p>
+        <p class="scripture">"How beautiful are the feet of those who bring good news!" &mdash; Romans 10:15</p>
         <p>At The Good News Corner, our name says it all &mdash; we're inspired by the greatest good news ever told, the Gospel of Jesus Christ.</p>
-        <p>Every board we create is handcrafted with love, made to bring people together the way Jesus did &mdash; around a table. We pour purpose into every board because we believe breaking bread together is something worth celebrating.</p>
+        <p>Every board and box we create is handcrafted with love, made to bring people together the way Jesus did &mdash; around a table. Intentional Gatherings with Intentional Ingredients.</p>
+        <h2 class="section-title">Globally</h2>
+        <p>When you choose us, you're helping us support a cause that we hold close to our hearts. We are committed to faith and community, which is why 10% of all proceeds are donated to <a href="https://www.godlink.org" target="_blank">Godlink.org</a>, a non profit committed to building a better future for Zambian children by providing food, clean water, shelter, and the opportunity to an excellent education.</p>
         <p>Serving the Dallas/Fort Worth community with love, intention, and a whole lot of flavor.</p>
       </div>
     </div>
@@ -171,32 +174,58 @@
 
         <div class="form-row">
           <div class="form-group">
-            <label for="event-type">Event Type</label>
-            <select id="event-type" name="event_type">
-              <option value="">Select an option</option>
-              <option value="personal">Personal / Gift</option>
-              <option value="date-night">Date Night</option>
-              <option value="birthday">Birthday</option>
-              <option value="wedding">Wedding / Bridal</option>
-              <option value="baby-shower">Baby Shower</option>
-              <option value="corporate">Corporate Event</option>
-              <option value="holiday">Holiday</option>
-              <option value="other">Other</option>
-            </select>
-          </div>
-          <div class="form-group">
             <label for="fulfillment">Pickup or Delivery?</label>
             <select id="fulfillment" name="fulfillment">
               <option value="">Select an option</option>
-              <option value="pickup">Pickup</option>
-              <option value="delivery">Delivery (DFW area)</option>
+              <option value="pickup">Pickup: Secure location in Mansfield</option>
+              <option value="delivery">Delivery</option>
             </select>
+            <p class="delivery-rates">
+              <strong>Delivery Rates:</strong><br>
+              0–5 miles (Mansfield): $5.00 flat<br>
+              5–10 miles: $10.00<br>
+              10–15 miles: $15.00<br>
+              15+ miles: Call for a custom quote or $1.50/mile
+            </p>
           </div>
+          <div class="form-group"></div>
         </div>
 
         <div class="form-group full-width">
-          <label for="message">What are you interested in? (products, guest count, special requests)</label>
-          <textarea id="message" name="message" rows="4"></textarea>
+          <label for="message">What are you interested in?</label>
+          <select id="message" name="message" required>
+            <option value="">Select an option</option>
+            <option value="date-and-fig-box">The Date and Fig Box</option>
+            <option value="harvest-box">The Harvest Box</option>
+            <option value="olive-box">The Olive Box</option>
+            <option value="grazing-box">The Grazing Box</option>
+            <option value="manna-board">The Manna Board</option>
+            <option value="grazing-table">The Grazing Table</option>
+          </select>
+        </div>
+
+        <div class="form-group full-width">
+          <label for="quantity">Quantity</label>
+          <input type="number" id="quantity" name="quantity" min="1" placeholder="How many would you like?">
+        </div>
+
+        <div class="form-group full-width">
+          <label for="payment">Payment Method</label>
+          <select id="payment" name="payment" required>
+            <option value="">Select an option</option>
+            <option value="zelle">Zelle</option>
+            <option value="venmo">Venmo</option>
+            <option value="cashapp">CashApp</option>
+            <option value="square">Square</option>
+          </select>
+          <p class="payment-note">A 3% credit/debit card surcharge applies to Square to cover processing costs. Pay via Zelle or Venmo to avoid it.</p>
+        </div>
+
+        <div class="form-group full-width">
+          <label class="checkbox-label">
+            <input type="checkbox" name="confirmation" required>
+            I understand that orders must be placed 48 hours in advance for Boxes and 7 days in advance for The Manna Board or Grazing Table. All boards are custom and may vary based on ingredient availability.
+          </label>
         </div>
 
         <button type="submit" class="btn btn-primary">Send Order Request</button>
@@ -224,7 +253,9 @@
       <div class="footer-contact">
         <h4>Get In Touch</h4>
         <p>DFW, Texas</p>
-        <p><a href="mailto:hello@goodnewscornerdfw.com">hello@goodnewscornerdfw.com</a></p>
+        <p><a href="mailto:goodnewscornerdfw@gmail.com">goodnewscornerdfw@gmail.com</a></p>
+        <p><a href="https://www.instagram.com/goodnewscornerdfw" target="_blank" class="social-link"><i class="fa-brands fa-instagram"></i> @goodnewscornerdfw</a></p>
+        <p><a href="https://www.facebook.com/share/1Cm771juy5/" target="_blank" class="social-link"><i class="fa-brands fa-facebook"></i> The Good News Corner</a></p>
       </div>
     </div>
     <div class="footer-bottom">
