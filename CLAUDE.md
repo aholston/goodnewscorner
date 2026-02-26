@@ -4,8 +4,10 @@
 
 - **GitHub remote:** `git@github.com:aholston/goodnewscorner.git` (branch: `main`)
 - **S3 bucket:** `goodnewscornerdfw.com`
+- Before deploying, always do a `git pull` to get the latest changes.
 - Deploy by syncing the `site/` directory to the S3 bucket root using the default AWS profile.
 - After syncing, invalidate the CloudFront cache: `aws cloudfront create-invalidation --distribution-id E3K8T5LFV82QKG --paths "/*"`
+- After deploying, always commit any local changes and push to GitHub to keep the repo in sync with what's live.
 
 ## Who You're Talking To
 
